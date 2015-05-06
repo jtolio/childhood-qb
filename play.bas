@@ -1,0 +1,6 @@
+ON ERROR GOTO skip
+PLAY COMMAND$
+skip:
+SCREEN 10
+END
+
